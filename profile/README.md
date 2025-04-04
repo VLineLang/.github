@@ -8,6 +8,7 @@ If you would like to join us, you can contact us at any time at the email addres
 
 ## Thanks
 
+- [@karsl-program](https://github.com/karsl-program/) (Project leader, main developer, project founder)
 - [@cleversheep2011](https://github.com/cleversheep2011/) (Good friends, partners, advice givers and developers)
 - [@Harlan1015](https://github.com/Harlan1015/) (Good friends and partners)
 
